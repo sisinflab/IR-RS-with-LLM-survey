@@ -1,4 +1,4 @@
-# Literature Review Results
+# A Survey of Information Retrieval and Recommender System in the era of Large Language Models: Two sides of the same Task
 
 ## Information Retrieval
 
