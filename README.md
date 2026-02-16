@@ -29,9 +29,7 @@
 | [Cross-lingual Information Retrieval with BERT.](https://dblp.org/rec/conf/lrec/JiangEHKZ20) | Zhuolin Jiang, Amro El-Jaroudi, William Hartmann, Damianos G. Karakos, Lingjun Zhao | 2020 | CLSSTS@LREC | N/A | 96 | 13.71 | Sparse Representation |
 | [Paragraph Similarity Scoring and Fine-Tuned BERT for Legal Information Retrieval and Entailment.](https://doi.org/10.1007/978-3-030-79942-7_18) | Hannes Westermann, Jaromír Savelka, Karim Benyekhlef | 2020 | JSAI-isAI Workshops | N/A | 43 | 6.14 | Dense Representation |
 | [BERT-Based Ensemble Model for Statute Law Retrieval and Legal Information Entailment.](https://doi.org/10.1007/978-3-030-79942-7_15) | Hsuan-Lei Shao, Yi-Chia Chen, Sieh-Chuen Huang | 2020 | JSAI-isAI Workshops | N/A | 21 | 3.00 | Text Reranking |
-| [Neural generative models and representation learning for information retrieval.](https://doi.org/10.1145/3458553.3458565) | {'@pid': '/', 'text': 'Qingyao Ai'} | 2019 | SIGIR Forum | N/A | 2 | 0.25 | Sparse Representation |
-| [A Generative Theory of Relevance](https://doi.org/10.1007/978-3-540-89364-6) | {'@pid': '/', 'text': 'Victor Lavrenko'} | 2009 | The Information Retrieval Series | N/A | 92 | 5.11 | Dense Representation |
-| [Multilingual and Multimedia Information Retrieval from Web Documents.](https://doi.org/10.1109/DEXA.2004.1333443) | Marta Gatius, Manuel Bertrán, Horacio Rodríguez | 2004 | DEXA Workshops | N/A | 10 | 0.43 | Multi-vector Approach |
+| [Neural generative models and representation learning for information retrieval.](https://doi.org/10.1145/3458553.3458565) | Qingyao Ai | 2019 | SIGIR Forum | N/A | 2 | 0.25 | Sparse Representation |
 
 
 ### LLM Era
