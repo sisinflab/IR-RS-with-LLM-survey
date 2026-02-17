@@ -59,6 +59,7 @@ The core of this repository is the complete collection of papers analyzed in our
 * [Modern LLM Era: Recommender Systems](#llm-era-rs)
 
 **COMPUTED METRICS**
+
 In addition to standard bibliographic data (Title, Authors, Year, Venue), each table includes computed metrics to help gauge the relative impact of each paper over time. These are:
 
 * **The Venue Rank**: Determined from reliable sources[^2][^3], using conference rankings (A*, A, B, etc.) and journal quartiles (Q1, Q2, etc.).
