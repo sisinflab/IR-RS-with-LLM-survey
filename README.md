@@ -70,10 +70,13 @@ In addition to standard bibliographic data (Title, Authors, Year, Venue), each t
   ```
   *Note: The +1 in the denominator is included to avoid division by zero for papers published in the current year and to ensure a fair baseline.*
 
-## Information Retrieval
+## The Included Collection
+The following tables summarize the collected works, reporting for each entry the title, authors, year, venue, rank, citation count, normalized citation, and taxonomy labels; while all other fields are self-explanatory, the taxonomy labels indicate the categories we defined during our survey, with further details provided in the paper.
+
+### Infromation Retrieval
 
 <a id="pre-gpt-era-ir"></a>
-### Pre-GPT Era
+#### Pre-GPT Era
 | Title | Authors | Year | Venue | Rank | Number of Citations | Normalized Citation | Label |
 |---|---|---|---|---|---|---|---|
 | [High-precision information retrieval for rapid clinical guideline updates.](https://doi.org/10.1038/S41746-025-01648-5) | Florian Borchert, Paul Wullenweber, Annika Oeser, Nina Kreuzberger, Torsten Karge, Thomas Langer, Nicole Skoetz, Lothar H. Wieler, Matthieu-P. Schapranow, Bert Arnrich | 2025 | npj Digit. Medicine | Q1 | 2 | 1.00 | Sparse Representation |
