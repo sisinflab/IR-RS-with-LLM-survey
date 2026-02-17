@@ -58,7 +58,16 @@ The core of this repository is the complete collection of papers analyzed in our
 * [Modern LLM Era: Information Retrieval](#llm-era-ir)
 * [Modern LLM Era: Recommender Systems](#llm-era-rs)
 
-####Compute Metrics
+**COMPUTED METRICS**
+In addition to standard bibliographic data (Title, Authors, Year, Venue), each table includes computed metrics to help gauge the relative impact of each paper over time. These are:
+
+* **The Venue Rank**: Determined from reliable sources[^2][^3], using conference rankings (A*, A, B, etc.) and journal quartiles (Q1, Q2, etc.).
+* **The Number of Citations**: Obtained from Google Scholar, retrieved on *January 2025* and updated on *February 2026*.
+* **The Normalized Citation Score**: A measure designed to normalize the impact of a paper relative to its age. It provides a more balanced view of a paper's influence, especially when comparing newer papers to older, more established ones. It is calculated using the following formula:
+  ```
+  Normalized Citation Score = Citation Score / (Current Year - Publication Year + 1)
+  ```
+  *Note: The +1 in the denominator is included to avoid division by zero for papers published in the current year and to ensure a fair baseline.*
 
 ## Information Retrieval
 
@@ -619,12 +628,14 @@ The core of this repository is the complete collection of papers analyzed in our
 ## Authors
 
 This page is managed and maintined by:
-* Giovanni Maria Biancofiore[^2] [giovannimaria.biancofiore@poliba.it](mailto:givannimaria.biancofiore@poliba.it)
-* Dario Di Palma[^2] [dario.dipalma@poliba.it](mailto:dario.dipalma@poliba.it)
-* Claudio Pomo[^2] [claudio.pomo@poliba.it](mailto:claudio.pomo@poliba.it)
+* Giovanni Maria Biancofiore[^4] [giovannimaria.biancofiore@poliba.it](mailto:givannimaria.biancofiore@poliba.it)
+* Dario Di Palma[^4] [dario.dipalma@poliba.it](mailto:dario.dipalma@poliba.it)
+* Claudio Pomo[^4] [claudio.pomo@poliba.it](mailto:claudio.pomo@poliba.it)
 * Ludovico Boratto [ludovico.boratto@unica.it](mailto:ludovico.boratto@unica.it)
 * Tommaso Di Noia [tommaso.dinoia@poliba.it](mailto:tommaso.dinoia@poliba.it)
 * Fedelucio Narducci [fedelucio.narducci@poliba.it](mailto:fedelucio.narducci@poliba.it)
 
 [^1]: Page, Matthew J., et al. "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews." bmj 372 (2021).
-[^2]: Corresponding auhtor.
+[^2]: [ICORE Conference Portal](http://portal.core.edu.au/conf-ranks/)
+[^3]: [Scimago Journal Ranking](https://www.scimagojr.com/)
+[^4]: Corresponding auhtors.
