@@ -1,5 +1,11 @@
 # A Survey of Information Retrieval and Recommender System in the era of Large Language Models: Two sides of the same Task
 
+This repository contains the complete dataset, methodology, and analysis for our survey paper:
+
+> A Survey of Information Retrieval and Recommender System in the era of Large Language Models: Two sides of the same Task
+
+Our goal is to provide a transparent, reproducible, and lasting resource for the research community. Here you will find the comprehensive list of all papers surveyed, details on our data collection and analysis protocol, and supplemental information that extends the main paper.
+
 ## Information Retrieval
 
 ### Pre-GPT Era
