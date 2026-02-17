@@ -629,6 +629,14 @@ The following tables summarize the collected works, reporting for each entry the
 | [Generative Next-Basket Recommendation.](https://doi.org/10.1145/3604915.3608823) | Wenqi Sun, Ruobing Xie, Junjie Zhang , Wayne Xin Zhao, Leyu Lin, Ji-Rong Wen | 2023 | RecSys | A | 17 | 4.25 | Embedded Recommender Engine |
 | [LLANIME: Large Language Models for Anime Recommendations.](https://doi.org/10.1109/DESE60595.2023.10468757) | Anjali Agarwal, Sahil Sharma | 2023 | DeSE | C | 2 | 0.50 | Response Generator |
 
+## Data Analysis and Supplemental Information
+
+This section provides the data behind the trend analysis figures presented in the main paper, along with supplemental information that could not be included due to space constraints.
+
+The figures in our survey that show publication trends, citation velocity, and the distribution of research across subtopics are all generated from the data in this repository, and they are available in the /analysis directory.
+
+Any additional tables, figures, or details that supplement the main manuscript is made available in the /supplemental directory.
+
 ## Authors
 
 This page is managed and maintined by:
