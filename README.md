@@ -4,7 +4,7 @@ This repository contains the complete dataset, methodology, and analysis for our
 
 > A Survey of Information Retrieval and Recommender System in the era of Large Language Models: Two sides of the same Task
 
-Our goal is to provide a transparent, reproducible, and lasting resource for the research community. Here you will find the comprehensive list of all papers surveyed, details on our data collection and analysis protocol, and supplemental information that extends the main paper.
+Our goal is to provide a transparent, reproducible, and lasting resource for the research community. Here you will find the comprehensive list of all papers surveyed, details on our data collection and analysis protocol, and supplemental information that extends the main paper. Since the aim of this project is also to monitor future research publications on the topic, if you believe your work should be included, please feel free to contact any of the corresponding [authors](#authors).
 
 ## Information Retrieval
 
@@ -560,3 +560,14 @@ Our goal is to provide a transparent, reproducible, and lasting resource for the
 | [Generative Next-Basket Recommendation.](https://doi.org/10.1145/3604915.3608823) | Wenqi Sun, Ruobing Xie, Junjie Zhang , Wayne Xin Zhao, Leyu Lin, Ji-Rong Wen | 2023 | RecSys | A | 17 | 4.25 | Embedded Recommender Engine |
 | [LLANIME: Large Language Models for Anime Recommendations.](https://doi.org/10.1109/DESE60595.2023.10468757) | Anjali Agarwal, Sahil Sharma | 2023 | DeSE | C | 2 | 0.50 | Response Generator |
 
+## Authors
+
+This page is managed and maintined by:
+* Giovanni Maria Biancofiore[^1] [giovannimaria.biancofiore@poliba.it](mailto:givannimaria.biancofiore@poliba.it)
+* Dario Di Palma[^1] [dario.dipalma@poliba.it](mailto:dario.dipalma@poliba.it)
+* Claudio Pomo[^1] [claudio.pomo@poliba.it](mailto:claudio.pomo@poliba.it)
+* Ludovico Boratto [ludovico.boratto@unica.it](mailto:ludovico.boratto@unica.it)
+* Tommaso Di Noia [tommaso.dinoia@poliba.it](mailto:tommaso.dinoia@poliba.it)
+* Fedelucio Narducci [fedelucio.narducci@poliba.it](mailto:fedelucio.narducci@poliba.it)
+
+[^1]: Corresponding auhtor.
