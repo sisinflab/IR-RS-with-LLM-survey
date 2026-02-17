@@ -11,7 +11,7 @@ This figure presents a static snapshot of the total research output, distributed
   <img src="taxonomy_distribution-rs.png" width="45%">
 </p>
 
-*Note: c.f. Figure 7 of our survey*
+*Note: c.f. Figure 7 of our survey.*
 
 The key insight from this figure is a story of convergence. While the pre-GPT era shows the two fields had fundamentally different, and at times opposite, research priorities, the LLM era reveals a striking alignment in their focus, directly supporting the central thesis of our survey. This alignment in the LLM era is particularly compelling when contrasted with the clear divergence of research priorities in the pre-GPT era.
 
