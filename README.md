@@ -6,6 +6,14 @@ This repository contains the complete dataset, methodology, and analysis for our
 
 Our goal is to provide a transparent, reproducible, and lasting resource for the research community. Here you will find the comprehensive list of all papers surveyed, details on our data collection and analysis protocol, and supplemental information that extends the main paper. Since the aim of this project is also to monitor future research publications on the topic, if you believe your work should be included, please feel free to contact any of the corresponding [authors](#authors).
 
+## The PRISMA Methodology and the Data Collection
+
+Our paper collection followed the PRISMA protocol[^1] to ensure a systematic and reproducible search process. The flow of information through the different phases of our review is depicted below.
+
+The N phases of the PRISMA protocol were executed as follows:
+1. First
+2. Second
+
 ## Information Retrieval
 
 ### Pre-GPT Era
@@ -563,11 +571,12 @@ Our goal is to provide a transparent, reproducible, and lasting resource for the
 ## Authors
 
 This page is managed and maintined by:
-* Giovanni Maria Biancofiore[^1] [giovannimaria.biancofiore@poliba.it](mailto:givannimaria.biancofiore@poliba.it)
-* Dario Di Palma[^1] [dario.dipalma@poliba.it](mailto:dario.dipalma@poliba.it)
-* Claudio Pomo[^1] [claudio.pomo@poliba.it](mailto:claudio.pomo@poliba.it)
+* Giovanni Maria Biancofiore[^2] [giovannimaria.biancofiore@poliba.it](mailto:givannimaria.biancofiore@poliba.it)
+* Dario Di Palma[^2] [dario.dipalma@poliba.it](mailto:dario.dipalma@poliba.it)
+* Claudio Pomo[^2] [claudio.pomo@poliba.it](mailto:claudio.pomo@poliba.it)
 * Ludovico Boratto [ludovico.boratto@unica.it](mailto:ludovico.boratto@unica.it)
 * Tommaso Di Noia [tommaso.dinoia@poliba.it](mailto:tommaso.dinoia@poliba.it)
 * Fedelucio Narducci [fedelucio.narducci@poliba.it](mailto:fedelucio.narducci@poliba.it)
 
-[^1]: Corresponding auhtor.
+[^1]: Page, Matthew J., et al. "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews." bmj 372 (2021).
+[^2]: Corresponding auhtor.
