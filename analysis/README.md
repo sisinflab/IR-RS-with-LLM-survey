@@ -15,6 +15,16 @@ This figure provides a temporal analysis of the research landscape, comparing th
 
 The bars represent the raw count of papers published in a given year. The lines represent the Normalized Citation Score, a metric designed to measure scholarly impact while mitigating the inherent advantage of older papers. The score for a given year is the sum of the normalized scores of all papers published in that year. The formula is detailed [here](../README.md#normalized-citation-score).
 
+### Key Insights and Interpretation
+
+The data reveals a compelling *tri-partite* era in the adoption and impact of LLM-centric approaches, with both fields following a remarkably similar trajectory, albeit with RS often anticipating trends by approximately a year.
+
+**The Foundational Era (Pre-2021)**: In this early period, the number of publications in both IR and RS was relatively low, representing the nascent exploration of the paradigm. A key observation is the significant peak in the normalized citation score for RS papers from *2019*. This indicates that this year was particularly beneficial for producing foundational works in the recommender systems domain. These early papers, while few in number, have had a lasting and significant impact, a trend that is even more pronounced in the raw citation data available in the [/supplement](../supplement) directory.
+
+**The Acceleration Era (2021-2023)**: This period marks a clear acceleration in the number of papers being published in both fields, signaling a growing interest and validation of the LLM-based approach. The scale of the bars confirms a quantitatively larger research output in the RS community compared to IR. During these years, the normalized citation scores for RS papers begin a steep ascent, demonstrating that the work from this period was quickly recognized as impactful. In contrast, the citation impact for IR papers remained relatively low, preceding a dramatic increase in the subsequent period. This suggests that the RS community anticipated the wave of high-impact research by about a year.
+
+**The *Consecration* Era (2024-Present)**: The years *2024* and *2025* represent the most prosperous period for both fields. Publication volume reaches its peak, confirming that LLM-centric solutions have become the mainstream, dominant paradigm. Both IR and RS show a dramatic spike in their normalized citation scores. This synchronized peak consecrates the modern LLM era, demonstrating that the most recent work in both communities is seen as highly valuable and is attracting immediate and significant scholarly attention.
+
 ## Distribution of Publications Across Taxonomy Subtopics
 
 This figure presents a static snapshot of the total research output, distributed across the taxonomy categories for both IR and RS. The bar plots allow for a direct comparison of where the research community has invested its efforts, revealing a clear story of historical divergence and modern convergence.
