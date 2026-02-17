@@ -15,7 +15,7 @@ Our paper collection followed the PRISMA protocol[^1] to ensure a systematic and
 </p>
 
 The N phases of the PRISMA protocol were executed as follows:
-1. **Identification**: An initial set of records was identified through automated searches of major academic databases (e.g., ACM Digital Library, Scopus, Google Scholar) using the following set of keywords:
+1. **Identification**: An initial set of records was identified through automated searches of major academic databases (e.g., *ACM Digital Library, Scopus, Google Scholar*) using the following set of keywords:
    ```
     "llm recommend",
     "large language model recommend",
@@ -34,7 +34,7 @@ The N phases of the PRISMA protocol were executed as follows:
     "generative information search"
    ```
    The end of this step results into a collection of 2356 scientific papers.
-2. **Screening**: The collected records were first automatically de-duplicated, reaching a total set of 1862 articles. Subsequently, the titles and abstracts of the remaining records were screened against our pre-defined inclusion and exclusion criteria to remove irrelevant studies. Specifically, we excluded works that have not recevied a peer-reviewed process for their publication and those that contains the following excluding keywords in their title:
+2. **Screening**: The collected records were first automatically de-duplicated, reaching a total set of *1862* articles. Subsequently, the titles and abstracts of the remaining records were screened against our pre-defined inclusion and exclusion criteria to remove irrelevant studies. Specifically, we excluded works that have not recevied a peer-reviewed process for their publication and those that contains the following excluding keywords in their title:
    ```
     "retrieval augmented generation",
     "retrieval-augmented generation",
@@ -45,9 +45,9 @@ The N phases of the PRISMA protocol were executed as follows:
     "survey",
     "review"
    ```
-   This phase ends with a refined collection of 1217 papers.
+   This phase ends with a refined collection of *1217* papers.
 3. **Eligibility**: The full text of all papers that passed the initial screening was thoroughly reviewed to make a final determination of their eligibility for inclusion in our survey. Furhtermore, we filtered out all those works that have been published within workshop or low-ranked conferences and journals, including only those paper with potential high-impact.
-4. **Inclusion**: The final set of studies that met all criteria was included in our qualitative and quantitative synthesis, with a total of 388 papers. These are the papers presented in the data tables in this repository.
+4. **Inclusion**: The final set of studies that met all criteria was included in our qualitative and quantitative synthesis, with a total of *388* papers. These are the papers presented in the data tables in this repository.
 
 ## Information Retrieval
 
