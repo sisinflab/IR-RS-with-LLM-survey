@@ -15,8 +15,10 @@ Our paper collection followed the PRISMA protocol[^1] to ensure a systematic and
 </p>
 
 The N phases of the PRISMA protocol were executed as follows:
-1. First
-2. Second
+1. **Identification**: An initial set of records was identified through automated searches of major academic databases (e.g., ACM Digital Library, Scopus, Google Scholar) using the following set of keywords:
+   '''code
+   '''
+3. Second
 
 ## Information Retrieval
 
