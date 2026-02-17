@@ -2,6 +2,19 @@
 
 This directory contains the figures presented in our survey, which provide empirical evidence for the convergence of Information Retrieval (IR) and Recommender Systems (RS) in the era of Large Language Models (LLMs). Below, we offer a more detailed narrative and interpretation for each figure.
 
+## Publication Volume and Normalized Citation Trends in IR and RS
+
+This figure provides a temporal analysis of the research landscape, comparing the volume of publications with their evolving scholarly impact over time. It juxtaposes the absolute number of papers published each year (bars) with the aggregated, age-normalized citation score for those papers (lines). This dual view helps us understand not just when research was published, but also the lasting impact of the work from different periods.
+
+<p align="center">
+  <img src="trend_google_scholar_normalized-ir.png" width="45%">
+  <img src="trend_google_scholar_normalized-rs.png" width="45%">
+</p>
+
+*Note: c.f. Figure 4 of our survey.*
+
+The bars represent the raw count of papers published in a given year. The lines represent the Normalized Citation Score, a metric designed to measure scholarly impact while mitigating the inherent advantage of older papers. The score for a given year is the sum of the normalized scores of all papers published in that year. The formula is detailed [here](../README.md).
+
 ## Distribution of Publications Across Taxonomy Subtopics
 
 This figure presents a static snapshot of the total research output, distributed across the taxonomy categories for both IR and RS. The bar plots allow for a direct comparison of where the research community has invested its efforts, revealing a clear story of historical divergence and modern convergence.
