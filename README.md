@@ -16,8 +16,24 @@ Our paper collection followed the PRISMA protocol[^1] to ensure a systematic and
 
 The N phases of the PRISMA protocol were executed as follows:
 1. **Identification**: An initial set of records was identified through automated searches of major academic databases (e.g., ACM Digital Library, Scopus, Google Scholar) using the following set of keywords:
-   '''code
-   '''
+   ```
+   ["llm recommend",
+    "large language model recommend",
+    "pre-train recommend",
+    "bert recommend",
+    "generative recommend",
+    "llm information retr",
+    "large language model information retr",
+    "llm information search",
+    "large language model information search",
+    "pre-train information retr",
+    "pre-train information search",
+    "bert information retr",
+    "bert information search",
+    "generative information retr",
+    "generative information search"
+   ```
+   The end of this step results into the collection of 2356 scientific papers.
 3. Second
 
 ## Information Retrieval
