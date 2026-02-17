@@ -58,7 +58,7 @@ The core of this repository is the complete collection of papers analyzed in our
 * [Modern LLM Era: Information Retrieval](#llm-era-ir)
 * [Modern LLM Era: Recommender Systems](#llm-era-rs)
 
-**COMPUTED METRICS**
+#### Computed Metrics
 
 In addition to standard bibliographic data (Title, Authors, Year, Venue), each table includes computed metrics to help gauge the relative impact of each paper over time. These are:
 
@@ -106,7 +106,7 @@ The following tables summarize the collected works, reporting for each entry the
 | [Neural generative models and representation learning for information retrieval.](https://doi.org/10.1145/3458553.3458565) | Qingyao Ai | 2019 | SIGIR Forum | N/A | 2 | 0.25 | Sparse Representation |
 
 <a id="llm-era-ir"></a>
-### LLM Era
+#### LLM Era
 | Title | Authors | Year | Venue | Rank | Number of Citations | Normalized Citation | Label |
 |---|---|---|---|---|---|---|---|
 | [Human-guided collective LLM intelligence for strategic planning via two-stage information retrieval.](https://doi.org/10.1016/J.IPM.2025.104288) | Sangyeop Kim , Junguk Ha, Hangyeul Lee, Sohhyung Park, Sungzoon Cho | 2026 | Inf. Process. Manag. | Q1 | 3 | 3.00 | Semantic Re-Ranker |
@@ -201,10 +201,10 @@ The following tables summarize the collected works, reporting for each entry the
 | [Impact of Semantic Granularity on Geographic Information Search Support.](https://doi.org/10.1109/WI.2018.00-73) | Noemi Mauro, Liliana Ardissono, Laura Di Rocco, Michela Bertolotto, Giovanna Guerrini | 2018 | WI | B | 8 | 0.89 | Semantic Re-Ranker |
 
 
-## Recommender Systems
+### Recommender Systems
 
 <a id="pre-gpt-era-rs"></a>
-### Pre-GPT Era
+#### Pre-GPT Era
 | Title | Authors | Year | Venue | Rank | Number of Citations | Normalized Citation | Label |
 |---|---|---|---|---|---|---|---|
 | [GGDHSCL: A Graph Generative Diffusion With Hard Negative Sampling Contrastive Learning Recommendation Method.](https://doi.org/10.1109/TCSS.2025.3539854) | Xiaoyang Liu , Guiling Wen, Aijuan Wang, Chao Liu , Wei Wang , Pasquale De Meo | 2025 | IEEE Trans. Comput. Soc. Syst. | Q1 | 22 | 11.00 | Graph-based Methods |
@@ -356,7 +356,7 @@ The following tables summarize the collected works, reporting for each entry the
 | [Exploiting Pre-Trained Network Embeddings for Recommendations in Social Networks.](https://doi.org/10.1007/S11390-018-1849-9) | Lei Guo , Yufei Wen, Xinhua Wang | 2018 | J. Comput. Sci. Technol. | Q3 | 33 | 3.67 | Dense Representation |
 
 <a id="llm-era-rs"></a>
-### LLM Era
+#### LLM Era
 | Title | Authors | Year | Venue | Rank | Number of Citations | Normalized Citation | Label |
 |---|---|---|---|---|---|---|---|
 | [Exploiting large language model with reinforcement learning for generative job recommendations.](https://doi.org/10.1007/S11704-025-40843-1) | Zhi Zheng , Zhaopeng Qiu, Chen Zhu , Xiao Hu, Likang Wu, Yang Song , Hengshu Zhu, Hui Xiong | 2026 | Frontiers Comput. Sci. | Q1 | 1 | 1.00 | Response Generator |
