@@ -11,7 +11,7 @@ Our goal is to provide a transparent, reproducible, and lasting resource for the
 Our paper collection followed the PRISMA protocol[^1] to ensure a systematic and reproducible search process. The flow of information through the different phases of our review is depicted below.
 
 <p align="center">
-  <img width="600" height="282" src="https://raw.githubusercontent.com/sisinflab/IR-RS-with-LLM-survey/main/assets/Prisma-procedure.png">
+  <img width="600" height="282" src="assets/Prisma-procedure.png">
 </p>
 
 The N phases of the PRISMA protocol were executed as follows:
