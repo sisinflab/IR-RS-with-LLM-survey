@@ -65,6 +65,7 @@ In addition to standard bibliographic data (Title, Authors, Year, Venue), each t
 * **The Venue Rank**: Determined from reliable sources[^2][^3], using conference rankings (A*, A, B, etc.) and journal quartiles (Q1, Q2, etc.).
 * **The Number of Citations**: Obtained from Google Scholar, retrieved on *January 2025* and updated on *February 2026*.
 * **The Normalized Citation Score**: A measure designed to normalize the impact of a paper relative to its age. It provides a more balanced view of a paper's influence, especially when comparing newer papers to older, more established ones. It is calculated using the following formula:
+  <a id="normalized-citation-score"></a>
   ```
   Normalized Citation Score = Citation Score / (Current Year - Publication Year + 1)
   ```
