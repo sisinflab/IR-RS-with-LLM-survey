@@ -49,8 +49,20 @@ The four phases of the PRISMA protocol were executed as follows:
 3. **Eligibility**: The full text of all papers that passed the initial screening was thoroughly reviewed to make a final determination of their eligibility for inclusion in our survey. Furhtermore, we filtered out all those works that have been published within workshop or low-ranked conferences and journals, including only those paper with potential high-impact.
 4. **Inclusion**: The final set of studies that met all criteria was included in our qualitative and quantitative synthesis, with a total of *388* papers. These are the papers presented in the data tables in this repository.
 
+## The Surveyed Papers
+
+The core of this repository is the complete collection of papers analyzed in our survey. To facilitate exploration and further analysis, we have organized the literature into four distinct tables based on the primary research era and domain:
+
+* [Pre-GPT Era: Information Retrieval](#pre-gpt-era-ir)
+* [Pre-GPT Era: Recommender Systems](#pre-gpt-era-rs)
+* [Modern LLM Era: Information Retrieval](#llm-era-ir)
+* [Modern LLM Era: Recommender Systems](#llm-era-rs)
+
+####Compute Metrics
+
 ## Information Retrieval
 
+<a id="pre-gpt-era-ir"></a>
 ### Pre-GPT Era
 | Title | Authors | Year | Venue | Rank | Number of Citations | Normalized Citation | Label |
 |---|---|---|---|---|---|---|---|
@@ -80,7 +92,7 @@ The four phases of the PRISMA protocol were executed as follows:
 | [BERT-Based Ensemble Model for Statute Law Retrieval and Legal Information Entailment.](https://doi.org/10.1007/978-3-030-79942-7_15) | Hsuan-Lei Shao, Yi-Chia Chen, Sieh-Chuen Huang | 2020 | JSAI-isAI Workshops | N/A | 21 | 3.00 | Text Reranking |
 | [Neural generative models and representation learning for information retrieval.](https://doi.org/10.1145/3458553.3458565) | Qingyao Ai | 2019 | SIGIR Forum | N/A | 2 | 0.25 | Sparse Representation |
 
-
+<a id="llm-era-ir"></a>
 ### LLM Era
 | Title | Authors | Year | Venue | Rank | Number of Citations | Normalized Citation | Label |
 |---|---|---|---|---|---|---|---|
@@ -178,6 +190,7 @@ The four phases of the PRISMA protocol were executed as follows:
 
 ## Recommender Systems
 
+<a id="pre-gpt-era-rs"></a>
 ### Pre-GPT Era
 | Title | Authors | Year | Venue | Rank | Number of Citations | Normalized Citation | Label |
 |---|---|---|---|---|---|---|---|
@@ -329,7 +342,7 @@ The four phases of the PRISMA protocol were executed as follows:
 | [A Movie Trailer Recommendation System Based on Pre-trained Vector of Relationship and Scenario Content Discovered from Plot Summaries and Social Media.](https://doi.org/10.1109/TAAI48200.2019.8959918) | Chun-Yu Chien, Guo-Hao Qiu, Wen-Hsiang Lu | 2019 | TAAI | N/A | 3 | 0.38 | Item Ranking |
 | [Exploiting Pre-Trained Network Embeddings for Recommendations in Social Networks.](https://doi.org/10.1007/S11390-018-1849-9) | Lei Guo , Yufei Wen, Xinhua Wang | 2018 | J. Comput. Sci. Technol. | Q3 | 33 | 3.67 | Dense Representation |
 
-
+<a id="llm-era-rs"></a>
 ### LLM Era
 | Title | Authors | Year | Venue | Rank | Number of Citations | Normalized Citation | Label |
 |---|---|---|---|---|---|---|---|
