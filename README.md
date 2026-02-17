@@ -633,9 +633,9 @@ The following tables summarize the collected works, reporting for each entry the
 
 This section provides the data behind the trend analysis figures presented in the main paper, along with supplemental information that could not be included due to space constraints.
 
-The figures in our survey that show publication trends, citation velocity, and the distribution of research across subtopics are all generated from the data in this repository, and they are available in the /analysis directory.
+The figures in our survey that show publication trends, citation velocity, and the distribution of research across subtopics are all generated from the data in this repository, and they are available in the [/analysis](/analysis) directory.
 
-Any additional tables, figures, or details that supplement the main manuscript is made available in the /supplemental directory.
+Any additional tables, figures, or details that supplement the main manuscript is made available in the [/supplement](/supplement) directory.
 
 ## Authors
 
