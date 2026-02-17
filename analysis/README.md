@@ -1,6 +1,6 @@
 # Analysis of Publication Trends and Distributions
 
-This directory contains the figures presented in our survey, which provide empirical evidence for the convergence of Information Retrieval (IR) and Recommender Systems (RS) in the era of Large Language Models (LLMs). Below, we offer a more detailed narrative and interpretation for each figure.
+This directory contains the figures presented in our survey, which provide empirical evidence for the convergence of Information Retrieval (IR) and Recommender Systems (RSs) in the era of Large Language Models (LLMs). Below, we offer a more detailed narrative and interpretation for each figure.
 
 ## Publication Volume and Normalized Citation Trends in IR and RS
 
@@ -11,7 +11,7 @@ This figure provides a temporal analysis of the research landscape, comparing th
   <img src="trend_google_scholar_normalized-rs.png" width="45%">
 </p>
 
-*Note: c.f. Figure 4 of our survey.*
+*Note: c.f. Figure 4 of our survey. On the left we have trends about the IR domain. On the right, what concerns the RSs domain.*
 
 The bars represent the raw count of papers published in a given year. The lines represent the Normalized Citation Score, a metric designed to measure scholarly impact while mitigating the inherent advantage of older papers. The score for a given year is the sum of the normalized scores of all papers published in that year. The formula is detailed [here](../README.md#normalized-citation-score).
 
@@ -25,6 +25,27 @@ The data reveals a compelling *tri-partite* era in the adoption and impact of LL
 
 **The *Consecration* Era (2024-Present)**: The years *2024* and *2025* represent the most prosperous period for both fields. Publication volume reaches its peak, confirming that LLM-centric solutions have become the mainstream, dominant paradigm. Both IR and RS show a dramatic spike in their normalized citation scores. This synchronized peak consecrates the modern LLM era, demonstrating that the most recent work in both communities is seen as highly valuable and is attracting immediate and significant scholarly attention.
 
+## Temporal Evolution of Research Subtopics in IR and RS
+
+This figure provides a granular view of the paradigm shift by tracking the annual publication volume for specific taxonomy subtopics over time. The line plots illustrate which research areas have gained momentum and which have declined, revealing the internal dynamics of the transition to the LLM era.
+
+<p align="center">
+  <img src="taxonomy_over_time-ir.png" width="45%">
+  <img src="taxonomy_over_time-rs.png" width="45%">
+</p>
+
+*Note: c.f. Figure 5 and 6 of our survey. On the left we have trends about the IR domain. On the right, what concerns the RSs domain.*
+
+While both fields show a clear and decisive shift towards LLM-native paradigms, the nature and timing of this transition differ in subtle but important ways.
+
+### The IR Trajectory
+
+The *Response Generator* subtopic shows early signs of interest from *2021* to *2023*, even before the paradigm was fully established. This indicates a forward-looking curiosity within the IR community towards generative information access. Indeed, the period after *2023* marks a dramatic inflection point. The *Response Generator*, alongside the *Embedded IR Engine* and the *Semantic Re-ranker*, all exhibit a sharp, exponential increase in publication volume. This coordinated surge signifies a broad and rapid adoption of the entire suite of LLM-native solutions. Concurrently, the plot reveals that pre-GPT solutions, already representing a low volume of work, fade into residual activity and decline after 2023. This pattern suggests a near-complete and rapid replacement of the old paradigm by the new one. Nevertheless, a notable characteristic of the IR trends is their somewhat non-continuous nature, with paradigms emerging and surging in distinct phases, reflecting a field undergoing rapid, disruptive change.
+
+### The RSs Trajectory
+
+The most immediate difference in the RS plot is the significantly larger scale of publication volume across all topics. Furthermore, the trends exhibit a more evident continuity, with research lines showing smoother and more sustained growth compared to the more phased emergence in IR. Despite the differences in scale, the core narrative remains the same. The period after *2023* is a clear turning point where all three LLM-era categories (i.e., *Response Generator*, *Embedded Recommender Engine*, and *Semantic Re-ranker*) begin an exponential growth phase. Similar to IR, there is a corresponding and evident decrease in interest in pre-GPT solutions post-*2023*. This confirms a community-wide reallocation of research effort towards the new LLM-centric paradigms.
+
 ## Distribution of Publications Across Taxonomy Subtopics
 
 This figure presents a static snapshot of the total research output, distributed across the taxonomy categories for both IR and RS. The bar plots allow for a direct comparison of where the research community has invested its efforts, revealing a clear story of historical divergence and modern convergence.
@@ -34,7 +55,7 @@ This figure presents a static snapshot of the total research output, distributed
   <img src="taxonomy_distribution-rs.png" width="45%">
 </p>
 
-*Note: c.f. Figure 7 of our survey.*
+*Note: c.f. Figure 7 of our survey. On the left we have trends about the IR domain. On the right, what concerns the RSs domain.*
 
 The key insight from this figure is a story of convergence. While the pre-GPT era shows the two fields had fundamentally different, and at times opposite, research priorities, the LLM era reveals a striking alignment in their focus, directly supporting the central thesis of our survey. This alignment in the LLM era is particularly compelling when contrasted with the clear divergence of research priorities in the pre-GPT era.
 
