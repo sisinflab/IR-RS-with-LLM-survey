@@ -13,7 +13,7 @@ This figure provides a temporal analysis of the research landscape, comparing th
 
 *Note: c.f. Figure 4 of our survey.*
 
-The bars represent the raw count of papers published in a given year. The lines represent the Normalized Citation Score, a metric designed to measure scholarly impact while mitigating the inherent advantage of older papers. The score for a given year is the sum of the normalized scores of all papers published in that year. The formula is detailed [here](../README.md).
+The bars represent the raw count of papers published in a given year. The lines represent the Normalized Citation Score, a metric designed to measure scholarly impact while mitigating the inherent advantage of older papers. The score for a given year is the sum of the normalized scores of all papers published in that year. The formula is detailed [here](../README.md#normalized-citation-score).
 
 ## Distribution of Publications Across Taxonomy Subtopics
 
