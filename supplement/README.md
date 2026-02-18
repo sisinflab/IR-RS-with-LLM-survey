@@ -63,4 +63,19 @@ The relatively lower raw citation count for 2024 in this dataset can be interpre
 
 In summary, the raw Scopus data provides a final layer of validation and nuance. It confirms the monumental and lasting impact of the 2019 foundational work in RS and suggests that the dynamics of publishing and citation in the most recent, mature phase of the field may be influenced by higher quality bars and the natural delays of the formal peer-review ecosystem.
 
+## Analysis of Publication Venues and Community Trends
 
+Beyond analyzing the content of the research, it is also insightful to examine the publication landscape to understand the scholarly culture and dissemination patterns of the IR and RS communities. This section provides a breakdown of the publication venues for the papers in our survey, categorized by established conference tiers and journal quartiles.
+
+<p align="center">
+  <img src="venue_ranks-ir.png" width="45%">
+  <img src="venue_ranks-rs.png" width="45%">
+</p>
+
+*Note: On the left we have trends about the IR domain. On the right, what concerns the RSs domain.*
+
+The data reveals distinct and, in some cases, opposite publication strategies between the two fields, highlighting their different community structures and priorities even as their research topics converge.
+
+The IR community demonstrates a strong focus on publishing in the most prestigious venues. A commanding *43%* of the surveyed work appears in top-tier A* conferences, with another *25%* in high-impact Q1 journals. This indicates that the convergence topic is considered central and worthy of the field's premier outlets. A notable characteristic of the IR publication landscape is the preference for B-tier conferences (*20%*) over A-tier conferences (*7.8%*). This suggests that B-tier venues may serve as a crucial and popular outlet for a substantial volume of specialized or incremental work that falls outside the scope of the highly selective A* conferences. The significant portion of work in Q1 journals, combined with the conference publications, points to a relatively balanced ecosystem where both rapid conference dissemination and rigorous journal publication are highly valued.
+
+The RS community shows a pronounced preference for conference publications. The top two categories are A* (*33%*) and A (*27.3%*) conferences, which together account for over 60% of the total output. This points to a scholarly culture that prioritizes the rapid dissemination and discussion of results in major conference settings. Unlike in IR, the RS community follows a more traditional conference hierarchy, with a clear progression from A* to A to B tiers in terms of publication volume. The volume in B conferences (*11%*) is significantly lower than in A-tier venues. While Q1 journals (*24%*) still represent a major and respected outlet, the overall balance is clearly tilted towards the conference track.
